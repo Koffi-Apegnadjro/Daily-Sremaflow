@@ -1,2 +1,2 @@
-# Daily-Sremaflow
+# Daily-Sremaflow data
 NOAA RESEARCH PROJECT
